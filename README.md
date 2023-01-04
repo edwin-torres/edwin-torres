@@ -1,5 +1,5 @@
 
- 
+ ### Hi, I'm Edwin. I am a math educator interested in computer science and machine learning.  During my free time, I like to ride my bike 🚴 and study the french language 🥖. 
 <div> 
    <a href="https://www.linkedin.com/in/torres-edwin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/edwin.superluminal/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
